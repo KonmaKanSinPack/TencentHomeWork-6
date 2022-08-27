@@ -23,3 +23,4 @@
   e 交互（开门，拾取武器）
   tab 存档界面
   
+#链接：https://pan.baidu.com/s/1XJ5cUUS4ttgEIvjs7XQ2Bg?pwd=bk2i 提取码: bk2i
